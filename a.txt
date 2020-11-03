@@ -2,3 +2,4 @@ Teste
 
 Entendi o HEAD
  de novo to mudando aqui
+ linha modificada no ramo master
